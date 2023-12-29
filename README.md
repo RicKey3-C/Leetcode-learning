@@ -1,1 +1,1 @@
-记录RicKey3 Leetcode刷题的笔记和总结
+记录RicKey3 在Leetcode刷题的笔记和总结
